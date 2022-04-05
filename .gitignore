@@ -1,0 +1,5 @@
+appnotes.txt
+.env
+config.json
+node_modules/
+package-lock.json
